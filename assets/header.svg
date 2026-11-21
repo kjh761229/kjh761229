@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="AI Engineer &amp; Researcher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V190C1050 235 900 245 750 215C600 185 450 175 300 205C180 228 80 230 0 215Z" fill="url(#bg)"/>
+  <path d="M0 225C120 245 240 240 360 218C520 188 660 196 800 226C950 256 1080 246 1200 212V190C1050 235 900 245 750 215C600 185 450 175 300 205C180 228 80 230 0 215Z" fill="url(#wave)"/>
+  <g fill="#ffffff" opacity="0.18">
+    <circle cx="1080" cy="60" r="4"/><circle cx="1120" cy="95" r="3"/><circle cx="1040" cy="110" r="3"/>
+    <circle cx="140" cy="55" r="3"/><circle cx="95" cy="90" r="4"/><circle cx="180" cy="115" r="3"/>
+  </g>
+  <g stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.5">
+    <line x1="1080" y1="60" x2="1120" y2="95"/><line x1="1080" y1="60" x2="1040" y2="110"/><line x1="1120" y1="95" x2="1040" y2="110"/>
+    <line x1="140" y1="55" x2="95" y2="90"/><line x1="95" y1="90" x2="180" y2="115"/><line x1="140" y1="55" x2="180" y2="115"/>
+  </g>
+  <text x="600" y="105" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">AI Engineer &amp; Researcher</text>
+  <text x="600" y="150" text-anchor="middle" fill="#e0e7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="1">LLM · Generative AI · Vibe Coding · Machine Learning</text>
+</svg>

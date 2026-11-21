@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=200&section=header&text=AI%20Engineer%20%26%20Researcher&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=LLM%20%C2%B7%20Generative%20AI%20%C2%B7%20Vibe%20Coding%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=16" alt="AI Engineer & Researcher" />
+  <img src="./assets/header.svg" width="100%" alt="AI Engineer & Researcher — LLM · Generative AI · Vibe Coding · Machine Learning" />
 </p>
 
 <p align="center">
@@ -60,5 +60,5 @@ AI 코딩 에이전트와 함께 기획부터 테스트, GitHub · Vercel 운영
 - 📚 LLM 활용 · 데이터 기반 추천 시스템 연구 중
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=100&section=footer" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
